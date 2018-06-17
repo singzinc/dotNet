@@ -1,0 +1,10 @@
+/Users/chunsinglau/code_git/c_starter/bin/Debug/netcoreapp2.0/c_starter.deps.json
+/Users/chunsinglau/code_git/c_starter/bin/Debug/netcoreapp2.0/c_starter.runtimeconfig.json
+/Users/chunsinglau/code_git/c_starter/bin/Debug/netcoreapp2.0/c_starter.runtimeconfig.dev.json
+/Users/chunsinglau/code_git/c_starter/bin/Debug/netcoreapp2.0/c_starter.dll
+/Users/chunsinglau/code_git/c_starter/bin/Debug/netcoreapp2.0/c_starter.pdb
+/Users/chunsinglau/code_git/c_starter/obj/Debug/netcoreapp2.0/c_starter.csproj.CoreCompileInputs.cache
+/Users/chunsinglau/code_git/c_starter/obj/Debug/netcoreapp2.0/c_starter.AssemblyInfoInputs.cache
+/Users/chunsinglau/code_git/c_starter/obj/Debug/netcoreapp2.0/c_starter.AssemblyInfo.cs
+/Users/chunsinglau/code_git/c_starter/obj/Debug/netcoreapp2.0/c_starter.dll
+/Users/chunsinglau/code_git/c_starter/obj/Debug/netcoreapp2.0/c_starter.pdb
