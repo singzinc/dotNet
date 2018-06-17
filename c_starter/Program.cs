@@ -16,6 +16,7 @@ namespace c_starter
             string sub = testString.Substring(0, fEnd);
             Console.WriteLine("this is subString : " + sub);
             // this is comment
+            // commit 2
         }
 
     }
